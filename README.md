@@ -1,0 +1,1 @@
+# knowledgeDiscovery_QGISPlugin
